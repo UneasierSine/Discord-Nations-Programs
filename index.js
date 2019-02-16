@@ -156,6 +156,6 @@ function updateTracker(arguments, receivedMessage){
 
 }
 
-bot_secret_token = "NDU1NzkzNzAzMTg1ODA5NDA4.D0YKWw.KOQSyxB5f5Low-8aS499cpqr1JI"
+
 client.login(bot_secret_token)
 */
