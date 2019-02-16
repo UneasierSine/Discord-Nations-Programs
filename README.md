@@ -1,4 +1,4 @@
- aDiscord-Nations-Programs
+# Discord-Nations-Programs
 This is all of the code related to my work in Discord Nations. It consists of webhooks and a bot that I am developing. All links are expunged from the Github repository since it is public.
 
 ## Date.js
