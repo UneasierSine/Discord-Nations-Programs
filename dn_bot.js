@@ -9,9 +9,9 @@ const {google} = require('googleapis');
 
 const sheets = google.sheets({version: 'v4'}) 
 
-var militarySheetId = "1euyS03I8AfXJRgl5JwuScoVfQcT-S1YGo9irTJ7Htxg"
-var econSheetId = "1R8lg8voxZZ9mGaarFjWb8C9bcbEKE_GdE7aJ55ELPkY"
-var nationTrackerSheetId = "1Okve_1p6pqmBR5QpX2JSkDMOt-NCfhQ1T4v9k9d7vvI"
+var militarySheetId = "EXPUNGED"
+var econSheetId = "EXPUNGED"
+var nationTrackerSheetId = "EXPUNGED"
 
 var militarySheet, econSheet, nationTrackerSheet;
 
@@ -156,6 +156,6 @@ function updateTracker(arguments, receivedMessage){
 
 }
 
-
+var bot_secret_token = "EXPUNGED"
 client.login(bot_secret_token)
 */
